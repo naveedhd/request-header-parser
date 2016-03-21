@@ -4,7 +4,8 @@
   "description": "Request Header Parser ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/naveedhd/request-header-parser/issues"
   },
-  "homepage": "https://github.com/naveedhd/request-header-parser#readme"
+  "homepage": "https://github.com/naveedhd/request-header-parser#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
