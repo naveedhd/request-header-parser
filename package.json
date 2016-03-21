@@ -17,7 +17,7 @@
     "url": "https://github.com/naveedhd/request-header-parser/issues"
   },
   "homepage": "https://github.com/naveedhd/request-header-parser#readme",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.13.4"
   }
 }
